@@ -1,3 +1,4 @@
 Nama     Gunawan
 Kampus   Abulyatama
 Jurusan  sistem informasi
+alamat   Teunom
